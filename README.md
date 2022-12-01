@@ -1,4 +1,4 @@
-# SortingVisualizer
+# Sort Visualizer
 
 I have created a sorting visualiser for expanding my knowledge in JavaScript and DOM manipulation. Also I learnt about various sorting algorithms.
 
